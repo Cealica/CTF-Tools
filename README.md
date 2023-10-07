@@ -1,4 +1,4 @@
-# CTF and Hacking Tools Repository
+# CTF Tools Repository
 
 ![CTF Logo](https://example.com/ctf-logo.png)
 
